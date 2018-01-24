@@ -8,6 +8,7 @@ import sys
 
 from PySide import QtGui, QtCore
 # we need to import the QUiLoader as well for this
+# I'm just messing with this file on purpose to prove a point
 from PySide.QtUiTools import QUiLoader
 from functools import partial
 
