@@ -13,7 +13,7 @@ from PySide.QtUiTools import QUiLoader
 from functools import partial
 
 # this is the path the to .ui file that we've created
-PATH_TO_UI_FILE = "/Users/stauffer/Documents/Development/PycharmProjects/SimpleMath/simpleMathGui.ui"
+PATH_TO_UI_FILE = "/Users/stauffer/Documents/GitHub/GitHubClientDemo/simpleMathGui.ui"
 
 def createInterface():
 
