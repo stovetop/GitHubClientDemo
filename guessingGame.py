@@ -7,6 +7,7 @@ import random
 # Random Number Guessing Game
 
 # set random value
+# lets see what happens
 
 solution = random.randrange(1,10)
 
